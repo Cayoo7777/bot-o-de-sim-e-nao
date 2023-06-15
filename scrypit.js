@@ -1,5 +1,5 @@
 function sim(){
-    alert("você aceitou oque eu pedi otaro");
+    alert("você aceitou oque eu pedi hehe");
 }
 
 function desvia(){
